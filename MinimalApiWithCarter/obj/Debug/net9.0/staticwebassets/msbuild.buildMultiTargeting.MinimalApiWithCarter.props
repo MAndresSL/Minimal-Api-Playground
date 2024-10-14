@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MinimalApiWithCarter.props" />
+</Project>
